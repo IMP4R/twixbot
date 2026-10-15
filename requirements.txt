@@ -1,0 +1,6 @@
+aiogram>=3.31,<4
+python-dotenv>=1,<2
+requests>=2.32,<3
+-e ../../tg-bot-libs/templates
+-e ../../tg-bot-libs/settings
+-e ../../tg-bot-libs/payments
